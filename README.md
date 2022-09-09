@@ -7,7 +7,14 @@
 
 # Data Science Projects
 ## [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
-## [Project 2: Prediction of Student Test Scores based on Hours of Study](https://github.com/osamayusufhassan/Linear-Regression-hours-vs-scores)
+•	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), Model Evaluation using metrics (mean absolute error, mean squared error, RMS and R-squared).
+•	Predictive modelling via Linear Regression to predict score achieved by a student based upon hours of study.
+<br />
+## [Project 2: Prediction of Student Test Scores based on Hours of Study](https://github.com/osamayusufhassan/Linear-Regression-hours-vs-scores)<br />
+## [Project 3: SUV Purchase Predictor](https://github.com/osamayusufhassan/SUV-purchase-prediction-logistic-regression)
+•	Skills Accomplished: R, Logistic Regression, Confusion Matrix, Feature Scaling, caTools for splitting data set.
+•	Built and trained Logistic Regression model to predict whether or not the customers will purchase the newly launched SUV based on features such as age and salary
+
 <!--
 **osamayusufhassan/osamayusufhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
