@@ -1,3 +1,4 @@
+theme: cayman
 # Osama's Portfolio 👋
 
 ## [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
