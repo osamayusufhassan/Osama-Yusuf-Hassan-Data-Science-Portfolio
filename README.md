@@ -1,6 +1,6 @@
-### Osama's Portfolio 👋
+# Osama's Portfolio 👋
 
-# [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
+## [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
 
 <!--
 **osamayusufhassan/osamayusufhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
