@@ -10,10 +10,15 @@
 •	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), Model Evaluation using metrics (mean absolute error, mean squared error, RMS and R-squared).
 •	Predictive modelling via Linear Regression to predict score achieved by a student based upon hours of study.
 <br />
-## [Project 2: Prediction of Student Test Scores based on Hours of Study](https://github.com/osamayusufhassan/Linear-Regression-hours-vs-scores)<br />
-## [Project 3: SUV Purchase Predictor](https://github.com/osamayusufhassan/SUV-purchase-prediction-logistic-regression)
-•	Skills Accomplished: R, Logistic Regression, Confusion Matrix, Feature Scaling, caTools for splitting data set.
-•	Built and trained Logistic Regression model to predict whether or not the customers will purchase the newly launched SUV based on features such as age and salary
+## [Project 2: SUV Purchase Predictor](https://github.com/osamayusufhassan/SUV-purchase-prediction-logistic-regression)
+•	Skills Accomplished: R, Logistic Regression, Confusion Matrix, Feature Scaling, caTools for splitting data set.<br />
+•	Built and trained Logistic Regression model to predict whether or not the customers will purchase the newly launched SUV based on features such as age and salary.<br />
+## [Project 3: Prediction of Student Test Scores based on Hours of Study](https://github.com/osamayusufhassan/Linear-Regression-hours-vs-scores)<br />
+• Trained a Linear Regression model to predict the test scores achieved by students based upon their respective hours of study.<br />
+## [Project 4: Home Price Predictor](https://github.com/osamayusufhassan/Decision_tree_regressor_price_predictor)<br />
+• Developed an algortihm to predict home prices via Decision Tree Regressor.<br />
+• Performed model validation and handled overfitting vs underfitting to minimize mean absolute error..<br />
+
 
 <!--
 **osamayusufhassan/osamayusufhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
