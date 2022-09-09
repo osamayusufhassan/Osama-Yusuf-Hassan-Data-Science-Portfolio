@@ -1,9 +1,10 @@
 # Osama's Portfolio 👋 <br />
+<br />
 
 
 # [Data Science Blogs](https://osamayusufhassan.medium.com/) 
 ## [Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-7ee85231fb8a)<br />
-
+<br />
 
 # Data Science Projects
 ## [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
