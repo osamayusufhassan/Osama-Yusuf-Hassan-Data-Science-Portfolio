@@ -3,7 +3,7 @@
 
 
 # [Data Science Blogs](https://osamayusufhassan.medium.com/) 
-## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-7ee85231fb8a)<br />
+## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-18d438822ffc)<br />
 <br />
 
 # Data Science Projects
