@@ -15,6 +15,7 @@
 ## [Project 4: Home Price Predictor](https://github.com/osamayusufhassan/Decision_tree_regressor_price_predictor)
 • Developed an algortihm to predict home prices via Decision Tree Regressor.<br />
 • Performed model validation and handled overfitting vs underfitting to minimize mean absolute error..<br />
+<br />
 
 
 # [Data Science Blogs](https://osamayusufhassan.medium.com/) 
