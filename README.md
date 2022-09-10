@@ -13,8 +13,7 @@
 ## [Project 3: Prediction of Student Test Scores based on Hours of Study](https://github.com/osamayusufhassan/Linear-Regression-hours-vs-scores)
 • Trained a Linear Regression model to predict the test scores achieved by students based upon their respective hours of study.<br />•	Achieved an R-2 score =0.94 as a measure of goodness of fit of the model.
 <br />
-•	Achieved an R-2 score =0.945 as a measure of goodness of fit of the model.
-<br />
+•	Achieved an R-2 score =0.945 as a measure of goodness of fit of the model.<br />
 ## [Project 4: Home Price Predictor](https://github.com/osamayusufhassan/Decision_tree_regressor_price_predictor)
 • Developed an algortihm to predict home prices via Decision Tree Regressor.<br />
 • Performed model validation and handled overfitting vs underfitting to minimize mean absolute error..<br />
