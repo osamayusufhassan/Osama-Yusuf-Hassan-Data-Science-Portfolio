@@ -22,7 +22,7 @@
 <br />
 ## [Project 4: Home Price Predictor](https://github.com/osamayusufhassan/Decision_tree_regressor_price_predictor)
 •	Tools Used: Jupyter Notebook for Python, Microsoft Excel<br />
-• Developed an algorithm to predict home prices via Decision Tree Regressor.<br />
+• Developed a model to predict home prices via Decision Tree Regressor.<br />
 • Performed model validation and handled overfitting vs underfitting to minimize mean absolute error..<br />
 <br />
 
