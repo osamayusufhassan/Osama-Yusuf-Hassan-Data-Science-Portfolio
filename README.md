@@ -3,7 +3,7 @@
 
 # Data Science Projects
 ## [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
-• Problem Statement: Create a model to estimate the future profits for venture capitalist in order to assist them in making the right investment.<br />
+• Problem Statement: A VC firm is holding a board meeting to assess the potentials of profitability in the current market. Create a model to estimate the future profits for venture capitalists in order to assist them in making the right investment.<br />
 •	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), pandas, numpy, maltplotlib, OneHotEncoder, Model Evaluation using metrics R-squared.<br />
 •	Tools Used: Jupyter Notebook for Python, Microsoft Excel.<br />
 • Predictive modelling via Multiple Linear Regression to predict score achieved by a student based upon hours of study.<br />
