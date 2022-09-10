@@ -3,13 +3,14 @@
 
 
 # [Data Science Blogs](https://osamayusufhassan.medium.com/) 
-## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-18d438822ffc)<br />
+## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-7ee85231fb8a)<br />
 <br />
 
 # Data Science Projects
 ## [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
-•	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), Model Evaluation using metrics (mean absolute error, mean squared error, RMS and R-squared).<br />
-•	Predictive modelling via Linear Regression to predict score achieved by a student based upon hours of study.
+•	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), pandas, numpy, maltplotlib, OneHotEncoder, Model Evaluation using metrics R-squared.<br />
+• Predictive modelling via Multiple Linear Regression to predict score achieved by a student based upon hours of study.
+•	Achieved an R-2 score =0.94 as a measure of goodness of fit of the model.
 <br />
 ## [Project 2: SUV Purchase Predictor](https://github.com/osamayusufhassan/SUV-purchase-prediction-logistic-regression)
 •	Skills Accomplished: R, Logistic Regression, Confusion Matrix, Feature Scaling, caTools for splitting data set.<br />
