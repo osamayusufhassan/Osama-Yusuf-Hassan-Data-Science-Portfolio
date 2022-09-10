@@ -1,11 +1,6 @@
 # Osama's Portfolio 👋 <br />
 <br />
 
-
-# [Data Science Blogs](https://osamayusufhassan.medium.com/) 
-## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-18d438822ffc)<br />
-<br />
-
 # Data Science Projects
 ## [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
 •	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), pandas, numpy, maltplotlib, OneHotEncoder, Model Evaluation using metrics R-squared.<br />
@@ -20,6 +15,13 @@
 ## [Project 4: Home Price Predictor](https://github.com/osamayusufhassan/Decision_tree_regressor_price_predictor)
 • Developed an algortihm to predict home prices via Decision Tree Regressor.<br />
 • Performed model validation and handled overfitting vs underfitting to minimize mean absolute error..<br />
+
+
+# [Data Science Blogs](https://osamayusufhassan.medium.com/) 
+## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-18d438822ffc)<br />
+<br />
+
+
 
 
 <!--
