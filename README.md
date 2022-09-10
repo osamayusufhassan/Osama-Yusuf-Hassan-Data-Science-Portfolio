@@ -4,7 +4,7 @@
 # Data Science Projects
 ## [Project 1: Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
 •	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), pandas, numpy, maltplotlib, OneHotEncoder, Model Evaluation using metrics R-squared.<br />
-• Predictive modelling via Multiple Linear Regression to predict score achieved by a student based upon hours of study.
+• Predictive modelling via Multiple Linear Regression to predict score achieved by a student based upon hours of study.<br />
 •	Achieved an R-2 score =0.94 as a measure of goodness of fit of the model.
 <br />
 ## [Project 2: SUV Purchase Predictor](https://github.com/osamayusufhassan/SUV-purchase-prediction-logistic-regression)
