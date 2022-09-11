@@ -21,9 +21,11 @@ Tools Used: Jupyter Notebook for Python, Microsoft Excel.<br />
 • Trained a Linear Regression model to predict the test scores achieved by students based upon their respective hours of study.<br />
 •	Achieved an R-2 score =0.945 as a measure of goodness of fit of the model.
 <br />
-## [Project 4: Home Price Predictor](https://github.com/osamayusufhassan/Decision_tree_regressor_price_predictor)
+## [Project 4: Home Price Estimator](https://github.com/osamayusufhassan/Decision_tree_regressor_price_predictor)
+• Problem Statement: A real estate agent wants to understand the pricing criteria of homes built in a certain locality. Create a model to estimate the home prices based upon a number of features as shown in the data set.<br />
+•	Skills Accomplished: Python, sci-kit learn (DecisionTreeRegressor, train_test_split, mean_absolute_error), pandas, numpy, Model Validation using metrics Mean Absolute Error.<br />
 •	Tools Used: Jupyter Notebook for Python, Microsoft Excel.<br />
-• Developed a model to predict home prices via Decision Tree Regressor.<br />
+• Built and trained a model to estimate home prices via Decision Tree Regressor of sci-kit learn library.<br />
 • Performed model validation and handled overfitting vs underfitting to minimize mean absolute error.<br />
 <br />
 
