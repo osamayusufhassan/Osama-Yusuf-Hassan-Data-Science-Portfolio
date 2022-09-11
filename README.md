@@ -17,7 +17,7 @@
 ## [Project 3: Prediction of Student Test Scores based on Hours of Study](https://github.com/osamayusufhassan/Linear-Regression-hours-vs-scores)
 • Problem Statement: Create a model to predict the test scores of a class.<br />
 •	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), Model Evaluation using various metrics (mean absolute error, mean squared error, RMS and R-squared).<br />
-Tools Used: Jupyter Notebook for Python, Microsoft Excel.<br />
+•	Tools Used: Jupyter Notebook for Python, Microsoft Excel.<br />
 • Trained a Linear Regression model to predict the test scores achieved by students based upon their respective hours of study.<br />
 •	Achieved an R-2 score =0.945 as a measure of goodness of fit of the model.
 <br />
