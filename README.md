@@ -14,7 +14,7 @@
 •	Skills Accomplished: R, Logistic Regression, Confusion Matrix, Feature Scaling, caTools for splitting data set.<br />
 •	Tools Used: RStudio for R, Microsoft Excel.<br />
 •	Built and trained Logistic Regression model to predict whether or not the customers will purchase the newly launched SUV based on features such as age and salary.<br />
-## [Project 3: Prediction of Student Test Scores based on Hours of Study](https://github.com/osamayusufhassan/Linear-Regression-hours-vs-scores)
+## [Project 3: Prediction of Student Test Scores](https://github.com/osamayusufhassan/Linear-Regression-hours-vs-scores)
 • Problem Statement: Create a model to predict the test scores of a class.<br />
 •	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), Model Evaluation using various metrics (mean absolute error, mean squared error, RMS and R-squared).<br />
 •	Tools Used: Jupyter Notebook for Python, Microsoft Excel.<br />
