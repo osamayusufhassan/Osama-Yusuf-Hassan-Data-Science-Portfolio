@@ -30,7 +30,7 @@
 <br />
 
 
-# [Data Science Blogs](https://osamayusufhassan.medium.com/) 
+# [Data Science Blog](https://osamayusufhassan.medium.com/) 
 ## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-18d438822ffc)
 • A brief summary of interrelation between data and context, and its transition into knowledge.
 
