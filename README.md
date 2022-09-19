@@ -34,7 +34,7 @@
 ## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-18d438822ffc)
 • A brief summary of interrelation between data and context, and its transition into knowledge.
 ## [2. Writing a Winning Data Science Resume](https://osamayusufhassan.medium.com/data-science-resume-dos-and-don-t-f32e308b7e8c)
-• A comprehensive guide which plunges deep into the essentials of creating your data science resume.
+• A deep dive into the essentials of creating your data science resume.
 
 
 
