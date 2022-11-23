@@ -1,7 +1,7 @@
 # Osama's Portfolio  👋 <br />
 <br />
 
-# Data Science Projects
+# Projects
 ## [1. Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
 • Problem Statement: A VC firm is holding a board meeting to assess the potentials of profitability in the current market. Create a model to estimate the future profits for venture capitalists in order to assist them in making the right investment.<br />
 •	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), pandas, numpy, maltplotlib, OneHotEncoder, Model Evaluation using R-squared metric.<br />
@@ -27,6 +27,18 @@
 •	Tools Used: Jupyter Notebook for Python, Microsoft Excel.<br />
 • Built and trained a model to estimate home prices via Decision Tree Regressor of sci-kit learn library.<br />
 • Performed model validation and handled overfitting vs underfitting to minimize mean absolute error.<br />
+<br />
+
+## [5. Customer Churn Rate](https://github.com/osamayusufhassan/Customer_Churn_Rate)
+• Problem Statement: Study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn.<br />
+• Skills Accomplished: Exploratory Data Analysis, Query editor, new query, new column, filtering, mapping, pie chart and dashboarding etc on Microsoft PowerBI.<br />
+•	Tools Used: Microsoft PowerBI, Microsoft Excel.<br />
+<br />
+
+## [6. Sales Dashboard](https://github.com/osamayusufhassan/Sales_Dashboard)
+• Problem Statement: Study the sales data and create Sales Report by Calendar Year, Fiscal Semester, Fiscal Quarter and Countries.<br />
+• Skills Accomplished: Exploratory Data Analysis, new column, Query editor, pie chart, mapping, dashboarding, treemap, multi-row card and stacked column chart etc on Microsoft PowerBI.<br />
+•	Tools Used: Microsoft PowerBI, Microsoft Excel.<br />
 <br />
 
 
