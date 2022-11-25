@@ -30,16 +30,17 @@
 <br />
 
 ## [5. Customer Churn Rate [Microsoft Power BI]](https://github.com/osamayusufhassan/Customer_Churn_Rate)
-• Problem Statement: Study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn.<br />
+• Problem Statement: Using historical data, study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn.<br />
 • Skills Accomplished: Exploratory Data Analysis, Query editor, new query, new column, filtering, mapping, pie chart and dashboarding etc on Microsoft Power BI.<br />
 •	Tools Used: Microsoft Power BI, Microsoft Excel.<br />
 <br />
 
 ## [6. Sales Report [Microsoft Power BI]](https://github.com/osamayusufhassan/Sales_Dashboard)
-• Problem Statement: Study the sales data and create Sales Report by Calendar Year, Fiscal Semester, Fiscal Quarter and Countries.<br />
+• Problem Statement: Study the sales data and create Sales Report by Calendar Year, Fiscal Semester, Fiscal Quarter and Countries using historical dat.<br />
 • Skills Accomplished: Exploratory Data Analysis, new column, Query editor, pie chart, mapping, dashboarding, treemap, multi-row card and stacked column chart etc on Microsoft Power BI.<br />
 •	Tools Used: Microsoft Power BI, Microsoft Excel.<br />
 <br />
+
 
 
 # [Data Science Blog](https://osamayusufhassan.medium.com/) 
